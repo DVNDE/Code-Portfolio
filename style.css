@@ -14,7 +14,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(images/Portfolio\ back.jpeg);
+    background-image: URL[[https://github.com/DVNDE/Code-Portfolio/blob/main/Portfolio%20back.jpeg|alt octocat]];
     background-size: cover;
     background-position: center;
 }
