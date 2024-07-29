@@ -171,6 +171,11 @@ nav ul li a:hover::after{
     margin-top: 20px;
     display: inline-block;
 }
+a{
+    color: red;
+    text-decoration: none;
+    font-size: 50px;
+}
 .services-list div:hover{
     background: blue;
     transform: translateY(-10px);
